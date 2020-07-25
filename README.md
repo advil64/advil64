@@ -1,16 +1,19 @@
 ### Hey I'm Advith 👋
 
-- :computer: Check me out at...
+:computer: Check me out at...
   
 <a href="https://www.linkedin.com/in/achegu/">
-  <img align="left" width="20px" src="images/linkedin.svg" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/linkedin.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+
+<a href="https://www.instagram.com/advillion/">
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/instagram.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+
+<a href="mailto:advil64@gmail.com">
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/mail.svg" />
 </a>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
