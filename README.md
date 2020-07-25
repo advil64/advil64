@@ -14,7 +14,13 @@
   <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/mail.svg" />
 </a>
 <br></br>
-🔭 I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn)
+Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
+
+- 🔭 I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
+- <a href="https://ivi.cs.rutgers.edu">
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpeg" />
+  </a> I help out at the Rutgers IVI lab 
+- <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpeg" /> I work at Colgate-Palmolive
 
 
 
