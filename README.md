@@ -27,11 +27,9 @@
 <br></br>
 Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 
-- :musical_note: I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
-- <a href="https://ivi.cs.rutgers.edu">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpg" />
-  </a> I help out at the Rutgers IVI lab 
-- <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/cp.png" /> I work at Colgate-Palmolive as a Data Engineering Intern
+- :musical_note: I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with @navey and @bantypatel09
+- <img height="20" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpg"> I help out at the Rutgers IVI lab 
+- <img height="20" src="https://raw.githubusercontent.com/advil64/advil64/master/images/cp.png"> I work at Colgate-Palmolive as a Data Engineering Intern
 - :smiley: Pronouns: He/Him
 - :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
 - 🌱 I’m currently learning SQL, Typescript, and Express
@@ -44,8 +42,6 @@ Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 </a>
 
 <!--
-**advil64/advil64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -56,7 +52,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 -->
+
+[Icons](https://www.flaticon.com/)
+[Inspiration](https://github.com/anuraghazra/anuraghazra/blob/master/README.md)
