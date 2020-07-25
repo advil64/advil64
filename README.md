@@ -1,15 +1,13 @@
 ### Hey I'm Advith 👋
 
-:computer: Check me out at...
+:e-mail: Check me out at...
 
 <a href="https://www.linkedin.com/in/achegu/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/linkedin.svg" />
 </a>
-
 <a href="https://www.instagram.com/advillion/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/instagram.svg" />
 </a>
-
 <a href="mailto:advil64@gmail.com">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/mail.svg" />
 </a>
@@ -17,20 +15,16 @@
 
 :computer: My favorite tools/technologies are...
 
-<a href="https://www.linkedin.com/in/achegu/">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/advillion/">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/instagram.svg" />
-</a>
-
-<a href="mailto:advil64@gmail.com">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/mail.svg" />
-</a>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <br></br>
-
 Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 
 - 🔭 I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
