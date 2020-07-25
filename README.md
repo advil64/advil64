@@ -27,13 +27,14 @@
 <br></br>
 Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 
-- 🔭 I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
+- :musical_note: I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
 - <a href="https://ivi.cs.rutgers.edu">
-  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpeg" />
+  <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpg" />
   </a> I help out at the Rutgers IVI lab 
-- <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/cp.png" /> I work at Colgate-Palmolive
-
-
+- <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/cp.png" /> I work at Colgate-Palmolive as a Data Engineering Intern
+- :smiley: Pronouns: He/Him
+- :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
+- 🌱 I’m currently learning SQL, Typescript, and Express
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
