@@ -1,7 +1,12 @@
 ### Welcome to my GitHub 👋
 
-[![Advith's github stats](https://github-readme-stats.vercel.app/api?username=advil64)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advil64" />
+</a>
 <!--
 **advil64/advil64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
