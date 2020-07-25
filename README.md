@@ -1,6 +1,6 @@
 ### Hey I'm Advith 👋
 
-:e-mail: Check me out at...
+:calling: Check me out at...
 
 <a href="https://www.linkedin.com/in/achegu/">
   <img align="left" width="20px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/linkedin.svg" />
@@ -27,12 +27,12 @@
 <br></br>
 Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 
-- :musical_note: I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with @navey and @bantypatel09
+- :musical_note: I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
 - <img height="20" src="https://raw.githubusercontent.com/advil64/advil64/master/images/rutgers-logo.jpg"> I help out at the Rutgers IVI lab 
 - <img height="20" src="https://raw.githubusercontent.com/advil64/advil64/master/images/cp.png"> I work at Colgate-Palmolive as a Data Engineering Intern
 - :smiley: Pronouns: He/Him
 - :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
-- 🌱 I’m currently learning SQL, Typescript, and Express
+- :thought_balloon: I’m currently learning SQL, Typescript, and Express
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
@@ -55,4 +55,5 @@ Here are some ideas to get you started:
 -->
 
 [Icons](https://www.flaticon.com/)
+
 [Inspiration](https://github.com/anuraghazra/anuraghazra/blob/master/README.md)
