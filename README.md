@@ -36,7 +36,7 @@ Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advil64&theme=dracula" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advil64&layout=compact&theme=dracula" />
 </a>
 
 [Icons](https://www.flaticon.com/)
