@@ -32,12 +32,8 @@ Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 - :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
 - :thought_balloon: I’m currently learning SQL, Typescript, and Express
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advil64&layout=compact&theme=dracula" />
-</a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advil64&theme=dracula" />
 
 [Icons](https://www.flaticon.com/)
 [Inspiration](https://github.com/anuraghazra/anuraghazra/blob/master/README.md)
