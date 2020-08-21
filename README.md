@@ -34,6 +34,3 @@ Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=advil64&count_private=true&theme=dracula&show_icons=true" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=advil64&theme=dracula" />
-
-[Icons](https://www.flaticon.com/)
-[Inspiration](https://github.com/anuraghazra/anuraghazra/blob/master/README.md)
