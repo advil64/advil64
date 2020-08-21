@@ -1,4 +1,4 @@
-### Hey I'm Advith 👋
+### Hey I'm Advith :wave:
 
 :calling: Check me out at...
 
