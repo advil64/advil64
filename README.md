@@ -5,11 +5,14 @@
 <a href="https://www.linkedin.com/in/achegu/">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/advillion/">
+<a href="https://twitter.com/LibertyAdvith">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/instagram.svg" />
 </a>
 <a href="mailto:advil64@gmail.com">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/gmail.svg" />
+</a>
+<a href="mailto:advil64@gmail.com">
+  <img align="left" width="30px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/twitter.svg" />
 </a>
 <br></br>
 
