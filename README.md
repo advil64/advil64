@@ -35,7 +35,7 @@ Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
 - <img height="20" src="https://avatars1.githubusercontent.com/u/38768887?s=200&v=44"> I work at Colgate-Palmolive as a Data Science Intern
 - :smiley: Pronouns: He/Him
 - :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
-- :thought_balloon: I’m currently learning NodeJS, Typescript, and Express
+- :thought_balloon: I’m currently learning pyTorch, Typescript, and Express
 
 <img align="left" src="https://github-readme-stats.advil64.vercel.app/api?username=advil64&count_private=true&theme=highcontrast&show_icons=true" />
 <img align="left" src="https://github-readme-stats.advil64.vercel.app/api/top-langs/?username=advil64&theme=highcontrast&hide=C,php,assembly&langs_count=8"/>
