@@ -35,4 +35,4 @@ Hi I'm Advith Chegu, a fourth year CS/Statistics student at Rutgers University
 - :thought_balloon: I’m currently learning pyTorch, Typescript, and Express
 
 <img align="left" src="https://github-readme-stats.advil64.vercel.app/api?username=advil64&count_private=true&theme=highcontrast&show_icons=true" />
-<img align="left" src="https://github-readme-stats.advil64.vercel.app/api/top-langs/?username=advil64&theme=highcontrast&hide=C,php,assembly&langs_count=8"/>
+<img align="left" src="https://github-readme-stats.advil64.vercel.app/api/top-langs/?username=advil64&theme=highcontrast&hide=C,php,assembly,jupyter notebook&langs_count=8"/>
