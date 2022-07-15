@@ -11,9 +11,6 @@
 <a href="mailto:advil64@gmail.com">
   <img align="left" width="30px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/gmail.svg" />
 </a>
-<a href="https://twitter.com/LibertyAdvith">
-  <img align="left" width="30px" src="https://raw.githubusercontent.com/advil64/advil64/master/images/twitter.svg" />
-</a>
 <br></br>
 
 :computer: My favorite tools/technologies are...
@@ -37,4 +34,4 @@ Hi I'm Advith Chegu, a first year CS masters student at Rutgers University
 - :thought_balloon: I’m currently learning pyTorch, Typescript, and Express
 
 <img align="left" src="https://github-readme-stats.advil64.vercel.app/api?username=advil64&count_private=true&theme=highcontrast&show_icons=true" />
-<img align="left" src="https://github-readme-stats.advil64.vercel.app/api/top-langs/?username=advil64&theme=highcontrast&hide=C,php,assembly&langs_count=8"/>
+<img align="left" src="https://github-readme-stats.advil64.vercel.app/api/top-langs/?username=advil64&theme=highcontrast&hide=C,php,assembly,jupyter notebook&langs_count=8"/>
