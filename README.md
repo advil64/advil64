@@ -28,9 +28,8 @@
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 
 <br></br>
-Hi I'm Advith Chegu, a third year CS/Statistics student at Rutgers University
+Hi I'm Advith Chegu, a first year CS masters student at Rutgers University
 
-- :musical_note: I’m currently working on [PutMeOn](https://github.com/bantypatel09/PutMeOn) with [@navey](https://github.com/navey) and [@bantypatel09](https://github.com/bantypatel09)
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> I help out at the Rutgers IVI lab 
 - <img height="20" src="https://avatars1.githubusercontent.com/u/38768887?s=200&v=44"> I work at Colgate-Palmolive as a Data Science Intern
 - :smiley: Pronouns: He/Him
