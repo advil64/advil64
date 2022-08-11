@@ -32,6 +32,3 @@ Hi I'm Advith Chegu, a first year CS masters student at Rutgers University
 - :smiley: Pronouns: He/Him
 - :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
 - :thought_balloon: I’m currently learning pyTorch, Typescript, and Express
-
-<img align="left" src="https://github-readme-stats.advil64.vercel.app/api?username=advil64&count_private=true&theme=highcontrast&show_icons=true" />
-<img align="left" src="https://github-readme-stats.advil64.vercel.app/api/top-langs/?username=advil64&theme=highcontrast&hide=C,php,assembly,jupyter notebook&langs_count=8"/>
