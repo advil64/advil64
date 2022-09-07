@@ -27,8 +27,7 @@
 <br></br>
 Hi I'm Advith Chegu, a first year CS masters student at Rutgers University
 
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> I help out at the Rutgers IVI lab 
-- <img height="20" src="https://avatars1.githubusercontent.com/u/38768887?s=200&v=44"> I work at Colgate-Palmolive as a Data Science Intern
+- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> I'm a PTL for the intro data science class at Rutgers 
 - :smiley: Pronouns: He/Him
 - :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
-- :thought_balloon: I’m currently learning pyTorch, Typescript, and Express
+- :thought_balloon: I’m currently getting better at PyTorch and Deep Learning in general
