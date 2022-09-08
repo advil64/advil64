@@ -29,5 +29,5 @@ Hi I'm Advith Chegu, a first year CS masters student at Rutgers University
 
 - <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> I'm a PTL for the intro data science class at Rutgers 
 - :smiley: Pronouns: He/Him
-- :swimmer: Fun fact: I love to swim, and made a website for [Rutgers Club Swimming](https://ruclubswim.herokuapp.com)
+- :swimmer: Fun fact: I love fashion and made an outfit compatibility app using PyTorch for my Computer Vision class
 - :thought_balloon: I’m currently getting better at PyTorch and Deep Learning in general
