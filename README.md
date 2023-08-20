@@ -25,8 +25,4 @@
 <img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
 
 <br></br>
-Hi I'm Advith Chegu, a second-year CS masters student at Rutgers University
-
-- <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Rutgers_Scarlet_Knights_logo.svg/1153px-Rutgers_Scarlet_Knights_logo.svg.png"> I'm a PTL for the intro data science class at Rutgers 
-- :smiley: Pronouns: He/Him
-- :open_book: Current Project: I'm currently working with hyperbolic graph neural networks
+Hi I'm Advith Chegu, a second-year CS masters student at Rutgers University. I enjoy working with and learning about about recommender systems, applied reinforcement learning (bandits problems), and graph representation learning.
