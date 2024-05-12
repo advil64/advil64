@@ -26,4 +26,4 @@
 
 <br></br>
 <br></br>
-Hi I'm Advith Chegu, a second-year CS masters student at Rutgers University. I enjoy working with and learning about recommender systems, applied reinforcement learning (bandits problems), and graph representation learning. I'm currently working towards open sourcing our paper on DiGraph Representation Learning found [here](https://www.ijcai.org/proceedings/2023/0731.pdf)
+Hi I'm Advith Chegu, a recent CS masters graduate from Rutgers University. I enjoy working with and learning about recommender systems, applied reinforcement learning (bandits problems), and graph representation learning. I'm currently working towards open sourcing our paper on DiGraph Representation Learning found [here](https://www.ijcai.org/proceedings/2023/0731.pdf)
